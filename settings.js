@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['919394988360'] //ur owner number
-global.ownernomer = "919394988360" //ur owner number2
-global.ownername = "友.𝐿𝛪𝛧¿?🍃♡" //ur owner name
-global.ytname = "YT: " //ur yt chanel name
-global.socialm = "GitHub: " //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['923430436852'] //ur owner number
+global.ownernomer = "923430436852" //ur owner number2
+global.ownername = "©᭄𝑴𝒊𝒂𝒏🌸ོ" //ur owner name
+global.ytname = "YT: Mian" //ur yt chanel name
+global.socialm = "Instagram: its_mian__07" //ur github or insta name
+global.location = "Pakistan, Lahore" //ur location
 
 //new
-global.botname = "友.𝐿𝛪𝛧¿?🍃♡"
-global.ownernumber = '919394988360'
-global.ownername = '友.𝐿𝛪𝛧¿?🍃♡'
-global.ownerNumber = ["919394988360@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com"
-global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/"
-global.themeemoji = '🪀'
-global.wm = "友.𝐿𝛪𝛧¿?🍃♡ Inc."
-global.botscript = 'https://github.com' //script link
-global.packname = "Sticker By"
-global.author = "友.𝐿𝛪𝛧¿?🍃♡"
-global.creator = "918010431346@s.whatsapp.net"
+global.botname = "᭄𝑻𝒉𝒆-𝑳𝒐𝒍𝒊𝒃𝒐𝒕-❤️🌺💃"
+global.ownernumber = '923430436852'
+global.ownername = '©᭄𝑴𝒊𝒂𝒏🌸ོ'
+global.ownerNumber = ["923430436852@s.whatsapp.net"]
+global.ownerweb = "https://youtube.com/@Mian"
+global.websitex = "https://youtu.be/L_SIk5eAU"
+global.wagc = "http://Wa.me//923430436852"
+global.themeemoji = '☃️'
+global.wm = "Mian Bot Inc."
+global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
+global.packname = "𝑺𝒕𝒊𝒄𝒌𝒆𝒓 𝑩𝒚"
+global.author = "©᭄𝑴𝒊𝒂𝒏🌸ོ\n\n+923430436852"
+global.creator = "923430436852@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Here you go!', 
+    success: '𝐇𝐞𝐫𝐞 𝐲𝐨𝐮 𝐠𝐨!', 
 }
 
 let file = require.resolve(__filename)
