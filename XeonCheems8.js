@@ -1535,7 +1535,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │🎀.bugmenu
 │🎀.othermenu
 └─────────────────┈ ⳹`
-   ©𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝒎𝒊𝒂𝒏👿
+
             let ments = [ownernya, me, mark]        
            XeonBotInc.sendMessage(from, { 
 text: xeonezy,
