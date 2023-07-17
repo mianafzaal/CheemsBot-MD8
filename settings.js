@@ -29,7 +29,7 @@ global.socialm = "Instagram: its_mian__07" //ur github or insta name
 global.location = "Pakistan, Lahore" //ur location
 
 //new
-global.botname = "᭄𝑻𝒉𝒆-𝑳𝒐𝒍𝒊𝒃𝒐𝒕-❤️🌺💃"
+global.botname = "᭄﹝ᯤ﹞𝐃𝗂𝗅𝗋𝗎𝖻𝗈⃞̸𝅄🔭𓆩ʙᴏᴛ𓆪🌺💃"
 global.ownernumber = '923430436852'
 global.ownername = '©᭄𝑴𝒊𝒂𝒏🌸ོ'
 global.ownerNumber = ["923430436852@s.whatsapp.net"]
