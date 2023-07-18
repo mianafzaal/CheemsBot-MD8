@@ -1492,22 +1492,22 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             xeonezy = `┌─❖
 │ Hello 🤗
 └┬❖  ${pushname} 
-┌┤✑  ${xeonytimewisher} 😄
+┌┤✑  ${xeonytimewisher} 💐
 │└────────────┈ ⳹
 └─ 🤖𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
-│🚅𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
-│⏰𝗥𝘂𝗻𝘁𝗶𝗺𝗲 : ${runtime(process.uptime())}
-│🤖𝗕𝗼𝘁 : ${global.botname}
-│🤹𝗢𝘄𝗻𝗲𝗿 𝗡𝗼: ${ownernumber}
-│💮𝗣𝗿𝗲𝗳𝗶𝘅 :  NO-PREFIX 
-│🍒𝗠𝗼𝗱𝗲 : ${XeonBotInc.public ? 'Public' : `Self`}
-│👿𝗛𝗼𝘀𝘁 𝗡𝗮𝗺𝗲 : ${os.hostname()}
-│😻𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : ${os.platform()}
+│🚅Speed : ${latensie.toFixed(4)} miliseconds
+│⏰Runtime : ${runtime(process.uptime())}
+│🤖Bot : ${global.botname}
+│🤹Owner No: ${ownernumber}
+│💮Prefix :  NO-PREFIX 
+│📳 Mode : ${XeonBotInc.public ? 'Public' : `Self`}
+│💎Host Name : ${os.hostname()}
+│😻Platform : ${os.platform()}
 │
 └─ 𝙐𝙎𝙀𝙍 𝙄𝙉𝙁𝙊 
-│📝𝗡𝗮𝗺𝗲 : ${pushname}
-│🌚𝗡𝘂𝗺𝗯𝗲𝗿 : @${me.split('@')[0]}
-│𝗣𝗿𝗲𝗺𝗶𝘂𝗺 : ${isPrem ? '✅' : `❌`}
+│📛Name : ${pushname}
+│🌚Number : @${me.split('@')[0]}
+│🔓Premium : ${isPrem ? '✅' : `❌`}
 │
 └─ 𝙏𝙄𝙈𝙀 𝙄𝙉𝙁𝙊 
 │⏰𝗧𝗶??𝗲 : ${xtime}
@@ -1534,6 +1534,8 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
 │🎀.stalkermenu
 │🎀.bugmenu
 │🎀.othermenu
+│
+│💮©𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑴𝒊𝒂𝒏 
 └─────────────────┈ ⳹`
 
             let ments = [ownernya, me, mark]        
