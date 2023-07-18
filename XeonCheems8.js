@@ -1489,54 +1489,54 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let me = m.sender
             let timestampe = speed()
             let latensie = speed() - timestampe
-            xeonezy = `┌─❖
-│ Hello 🤗
-└┬❖  ${pushname} 
-┌┤✑  ${xeonytimewisher} 💐
-│└────────────┈ ⳹
-└─ 🤖𝘽𝙊𝙏 𝙄𝙉𝙁𝙊        
-│🚅Speed : ${latensie.toFixed(4)} miliseconds
-│⏰Runtime : ${runtime(process.uptime())}
-│🤖Bot : ${global.botname}
-│🤹Owner No: ${ownernumber}
-│💮Prefix :  NO-PREFIX 
-│📳 Mode : ${XeonBotInc.public ? 'Public' : `Self`}
-│💎Host Name : ${os.hostname()}
-│😻Platform : ${os.platform()}
-│
-└─ 𝙐𝙎𝙀𝙍 𝙄𝙉𝙁𝙊 
-│📛Name : ${pushname}
-│🌚Number : @${me.split('@')[0]}
-│🔓Premium : ${isPrem ? '✅' : `❌`}
-│
-└─ 𝙏𝙄𝙈𝙀 𝙄𝙉𝙁𝙊 
-│⏰𝗧𝗶??𝗲 : ${xtime}
-│🗓️𝗗𝗮𝘁𝗲 : ${xdate}
-└┬────────────┈ ⳹
-   │✑ 🔎 Please Type The *MENU*
-   │✑  Given *BELOW*
-┌└─────────────┈ ⳹
-│🎀.allmenu
-│🎀.downloadmenu
-│🎀.funmenu
-│🎀.aimenu
-│🎀.groupmenu
-│🎀.ownermenu
-│🎀.photooxymenu
-│🎀.textpromenu
-│🎀.ephoto360menu
-│🎀.animemenu
-│🎀.nsfwmenu
-│🎀.randomphotomenu
-│🎀.randomvideomenu
-│🎀.stickermenu
-│🎀.databasemenu
-│🎀.stalkermenu
-│🎀.bugmenu
-│🎀.othermenu
-│
-│💮©𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑴𝒊𝒂𝒏 
-└─────────────────┈ ⳹`
+╔═       xeonezy = `═══❀
+║ Hello 🤗
+║  ${pushname} 
+║ ${xeonytimewisher} 🥀
+╚════════════════❀⳹
+╔═══❑𝗕𝗢𝗧-𝗜𝗡𝗙𝗢❑════❀        
+║🚅𝚂𝚙𝚎𝚎𝚍 : ${latensie.toFixed(4)} miliseconds
+║⏰𝚁𝚞𝚗𝚝𝚒𝚖𝚎 : ${runtime(process.uptime())}
+║🤖𝙱𝚘𝚝 : ${global.botname}
+║💬𝙾𝚠𝚗𝚎𝚛: ${ownernumber}
+║🍒𝙿𝚛𝚎𝚏𝚒𝚡 :  NO-PREFIX 
+║💡𝙼𝚘𝚍𝚎 : ${XeonBotInc.public ? 'Public' : `Self`}
+║🖥️𝙷𝚘𝚜𝚝 𝙽𝚊𝚖𝚎 : ${os.hostname()}
+║📱𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
+╚═════════════════❀
+╔═══❑𝗨𝗦𝗘𝗥-𝗜𝗡𝗙𝗢❑════❀ 
+║🙇𝙽𝚊𝚖𝚎 : ${pushname}
+║📠𝙽𝚞𝚖𝚋𝚎𝚛 : @${me.split('@')[0]}
+║🟥𝙿𝚛𝚎𝚖𝚒𝚞𝚖 : ${isPrem ? '✅' : `❌`}
+╚════════════════❀
+╔═══❑𝗧𝗜𝗠𝗘-𝗜𝗡𝗙𝗢❑════❀
+║⌚𝚃𝚒𝚖𝚎 : ${xtime}
+║🗓️𝙳𝚊𝚝𝚎 : ${xdate}
+╚════════════════❀
+   ║✑ 🔎 Please Type The *MENU*
+   ║✑  Given *BELOW*
+╔╚══════════════❀⳹
+║🎀.allmenu
+║🎀.downloadmenu
+║🎀.funmenu
+║🎀.aimenu
+║🎀.groupmenu
+║🎀.ownermenu
+║🎀.photooxymenu
+║🎀.textpromenu
+║🎀.ephoto360menu
+║🎀.animemenu
+║🎀.nsfwmenu
+║🎀.randomphotomenu
+║🎀.randomvideomenu
+║🎀.stickermenu
+║🎀.databasemenu
+║🎀.stalkermenu
+║🎀.bugmenu
+║🎀.othermenu
+║
+║💮©𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑴𝒊𝒂𝒏 
+╚════════════════❀⳹`
 
             let ments = [ownernya, me, mark]        
            XeonBotInc.sendMessage(from, { 
@@ -2305,17 +2305,17 @@ case 'poll': {
 *Reason:* ${vote[m.chat][0]}
 
 ┌〔 UPVOTE 〕
-│ 
+║ 
 ├ Total: ${vote[m.chat][1].length}
-│
-│ 
+║
+║ 
 └────
 
 ┌〔 DOWNVOTE 〕
-│ 
+║ 
 ├ Total: ${vote[m.chat][2].length}
-│
-│ 
+║
+║ 
 └────
 
 Please Type Below
@@ -2338,17 +2338,17 @@ Please Type Below
 *Reason:* ${vote[m.chat][0]}
 
 ┌〔 UPVOTE 〕
-│ 
+║ 
 ├ Total: ${vote[m.chat][1].length}
 ${vote[m.chat][1].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
-│ 
+║ 
 └────
 
 ┌〔 DOWNVOTE 〕
-│ 
+║ 
 ├ Total: ${vote[m.chat][2].length}
 ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
-│ 
+║ 
 └────
 
 Please Type Below
@@ -2371,17 +2371,17 @@ Please Type Below
 *Reason:* ${vote[m.chat][0]}
 
 ┌〔 UPVOTE 〕
-│ 
+║ 
 ├ Total: ${vote[m.chat][1].length}
 ${vote[m.chat][1].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
-│ 
+║ 
 └────
 
 ┌〔 DOWNVOTE 〕
-│ 
+║ 
 ├ Total: ${vote[m.chat][2].length}
 ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
-│ 
+║ 
 └────
 
 Please Type Below
@@ -2400,17 +2400,17 @@ teks_vote = `* VOTE *
 *Reason:* ${vote[m.chat][0]}
 
 ┌〔 UPVOTE 〕
-│ 
+║ 
 ├ Total: ${upvote.length}
 ${vote[m.chat][1].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
-│ 
+║ 
 └────
 
 ┌〔 DOWNVOTE 〕
-│ 
+║ 
 ├ Total: ${devote.length}
 ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
-│ 
+║ 
 └────
 
 *${prefix}deletevote* - to delete votes
@@ -3465,11 +3465,11 @@ replygcxeon(`Success deleting bad word ${q}`)
 }
 break
 case 'listbadword':{
-let teks = '┌──⭓「 *BadWord List* 」\n│\n'
+let teks = '┌──⭓「 *BadWord List* 」\n║\n'
 for (let x of BadXeon) {
-teks += `│⭔ ${x}\n`
+teks += `║⭔ ${x}\n`
 }
-teks += `│\n└────────────⭓\n\n*Totally there are : ${BadXeon.length}*`
+teks += `║\n└────────────⭓\n\n*Totally there are : ${BadXeon.length}*`
 replygcxeon(teks)
 }
 break
@@ -3497,11 +3497,11 @@ replygcxeon(`Success deleting video ${q}`)
 }
 break
 case 'listvideo':{
-let teks = '┌──⭓「 *Video List* 」\n│\n'
+let teks = '┌──⭓「 *Video List* 」\n║\n'
 for (let x of VideoXeon) {
-teks += `│⭔ ${x}\n`
+teks += `║⭔ ${x}\n`
 }
-teks += `│\n└────────────⭓\n\n*Totally there are : ${VideoXeon.length}*`
+teks += `║\n└────────────⭓\n\n*Totally there are : ${VideoXeon.length}*`
 replygcxeon(teks)
 }
 break
@@ -3529,11 +3529,11 @@ replygcxeon(`Success deleting image ${q}`)
 }
 break
 case 'listimage':{
-let teks = '┌──⭓「 *Image List* 」\n│\n'
+let teks = '┌──⭓「 *Image List* 」\n║\n'
 for (let x of ImageXeon) {
-teks += `│⭔ ${x}\n`
+teks += `║⭔ ${x}\n`
 }
-teks += `│\n└────────────⭓\n\n*Totally there are : ${ImageXeon.length}*`
+teks += `║\n└────────────⭓\n\n*Totally there are : ${ImageXeon.length}*`
 replygcxeon(teks)
 }
 break
@@ -3561,11 +3561,11 @@ replygcxeon(`Success deleting sticker ${q}`)
 }
 break
 case 'liststicker':{
-let teks = '┌──⭓「 *Sticker List* 」\n│\n'
+let teks = '┌──⭓「 *Sticker List* 」\n║\n'
 for (let x of StickerXeon) {
-teks += `│⭔ ${x}\n`
+teks += `║⭔ ${x}\n`
 }
-teks += `│\n└────────────⭓\n\n*Totally there are : ${StickerXeon.length}*`
+teks += `║\n└────────────⭓\n\n*Totally there are : ${StickerXeon.length}*`
 replygcxeon(teks)
 }
 break
@@ -3593,11 +3593,11 @@ replygcxeon(`Success deleting vn ${q}`)
 }
 break
 case 'listvn':{
-let teks = '┌──⭓「 *VN List* 」\n│\n'
+let teks = '┌──⭓「 *VN List* 」\n║\n'
 for (let x of VoiceNoteXeon) {
-teks += `│⭔ ${x}\n`
+teks += `║⭔ ${x}\n`
 }
-teks += `│\n└────────────⭓\n\n*Totally there are : ${VoiceNoteXeon.length}*`
+teks += `║\n└────────────⭓\n\n*Totally there are : ${VoiceNoteXeon.length}*`
 replygcxeon(teks)
 }
 break
