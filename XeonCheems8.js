@@ -1484,36 +1484,36 @@ contacts: list }, mentions: [sender] }, { quoted: m })
 XeonBotInc.sendMessage(from, { text : `Hi @${sender.split("@")[0]}, Here is my handsome owner😇`, mentions: [sender]}, { quoted: repf })
 }
 break
-case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
+case 'alive': case 'panel': case 'list': case 'menu': case 'help': case 'Bot': {
 	        let ownernya = ownernomer + '@s.whatsapp.net'
             let me = m.sender
             let timestampe = speed()
             let latensie = speed() - timestampe
             xeonezy = `┌─❖
-│ Hello👋 🌚
+│ Hello👻
 └┬❖  ${pushname} 
 ┌┤✑  ${xeonytimewisher} 🦜
 │└────────────┈ ⳹
 │💬𝙾𝚠𝚗𝚎𝚛: ${ownernumber}
 ┌└─────────────┈ ⳹
-│🎀.allmenu
-│🎀.downloadmenu
-│🎀.funmenu
-│🎀.aimenu
-│🎀.groupmenu
-│🎀.ownermenu
-│🎀.photooxymenu
-│🎀.textpromenu
-│🎀.ephoto360menu
-│🎀.animemenu
-│🎀.nsfwmenu
-│🎀.randomphotomenu
-│🎀.randomvideomenu
-│🎀.stickermenu
-│🎀.databasemenu
-│🎀.stalkermenu
-│🎀.bugmenu
-│🎀.othermenu
+│🎲.allmenu
+│🎲.downloadmenu
+│🎲.funmenu
+│🎲.aimenu
+│🎲.groupmenu
+│🎲.ownermenu
+│🎲.photooxymenu
+│🎲.textpromenu
+│🎲.ephoto360menu
+│🎲.animemenu
+│🎲.nsfwmenu
+│🎲.randomphotomenu
+│🎲.randomvideomenu
+│🎲.stickermenu
+│🎲.databasemenu
+│🎲.stalkermenu
+│🎲.bugmenu
+│🎲.othermenu
 │
 │💮©𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝒃𝒚 𝑴𝒊𝒂𝒏🦜
 └─────────────────┈ ⳹`
@@ -6389,7 +6389,7 @@ const genshin = require("genshin-api")
 a = text.toLowerCase();
 const anime = await genshin.Characters(text)
 let txt = ""
-txt += `🎀 *Name:* ${anime.name}\n`
+txt += `🎲 *Name:* ${anime.name}\n`
 txt += `🎖️ *Title:* ${anime.title}\n`
 txt += `💠 *Vision:* ${anime.vision}\n`
 txt += `🏹 *Weapon:* ${anime.weapon}\n`
@@ -6449,7 +6449,7 @@ XeonStickWait()
         const anime = await malScraper.getInfoFromName(text).catch(() => null)
         if (!anime) return replygcxeon(`Could not find`)
 let animetxt = `
-🎀 *Title: ${anime.title}*
+🎲 *Title: ${anime.title}*
 🎋 *Type: ${anime.type}*
 🎐 *Premiered on: ${anime.premiered}*
 💠 *Total Episodes: ${anime.episodes}*
