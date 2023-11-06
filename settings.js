@@ -31,7 +31,7 @@ global.location = "Pakistan, Lahore" //ur location
 //new
 global.botname = "᭄﹝ᯤ﹞𝐃𝗂𝗅𝗋𝗎𝖻𝗈⃞̸𝅄🔭𓆩ʙᴏᴛ𓆪🌺💃"
 global.ownernumber = '923430436852'
-global.ownername = '©᭄𝑴𝒊𝒂𝒏🌸ོ'
+global.ownername = 'Click on BTS channel Subscribe😞'
 global.ownerNumber = ["923430436852@s.whatsapp.net"]
 global.ownerweb = "https://www.youtube.com/@BTSLOVERS444"
 global.websitex = "https://www.youtube.com/@BTSLOVERS444"
