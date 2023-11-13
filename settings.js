@@ -24,21 +24,21 @@ global.doc6 = 'application/vnd.android.package-archive'
 global.owner = ['923430436852'] //ur owner number
 global.ownernomer = "923430436852" //ur owner number2
 global.ownername = "©᭄𝑴𝒊𝒂𝒏🌸ོ" //ur owner name
-global.ytname = "YT: https://youtube.com/@BTSLOVERS444" //ur yt chanel name
+global.ytname = "YT: https://www.youtube.com/@blackpinkedit07" //ur yt chanel name
 global.socialm = "Instagram: its_mian__07" //ur github or insta name
 global.location = "Pakistan, Lahore" //ur location
 
 //new
 global.botname = "᭄﹝ᯤ﹞𝐃𝗂𝗅𝗋𝗎𝖻𝗈⃞̸𝅄🔭𓆩ʙᴏᴛ𓆪🌺💃"
 global.ownernumber = '923430436852'
-global.ownername = 'Click on BTS channel Subscribe😞'
+global.ownername = 'Click on blackpink channel Subscribe😞'
 global.ownerNumber = ["923430436852@s.whatsapp.net"]
-global.ownerweb = "https://www.youtube.com/@BTSLOVERS444"
-global.websitex = "https://www.youtube.com/@BTSLOVERS444"
-global.wagc = "https://youtube.com/@BTSLOVERS444"
+global.ownerweb = "https://www.youtube.com/@blackpinkedit07"
+global.websitex = "https://www.youtube.com/@blackpinkedit07"
+global.wagc = "https://www.youtube.com/@blackpinkedit07"
 global.themeemoji = '👻'
 global.wm = "Mian Bot Inc."
-global.botscript = 'https://www.youtube.com/@BTSLOVERS444' //script link
+global.botscript = 'https://www.youtube.com/@blackpinkedit07' //script link
 global.packname = "𝑺𝒕𝒊𝒄𝒌𝒆𝒓 𝑩𝒚"
 global.author = "©᭄𝑴𝒊𝒂𝒏🌸ོ\n\n+923430436852"
 global.creator = "923430436852@s.whatsapp.net"
