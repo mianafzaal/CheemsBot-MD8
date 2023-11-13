@@ -31,7 +31,7 @@ global.location = "Pakistan, Lahore" //ur location
 //new
 global.botname = "᭄﹝ᯤ﹞𝐃𝗂𝗅𝗋𝗎𝖻𝗈⃞̸𝅄🔭𓆩ʙᴏᴛ𓆪🌺💃"
 global.ownernumber = '923430436852'
-global.ownername = 'Click on blackpink channel Subscribe😞'
+global.ownername = 'ᶜˡⁱᶜᵏ ᵒⁿ ᵇˡᵃᶜᵏᵖⁱⁿᵏ ᶜʰᵃⁿⁿᵉˡ ˢᵘᵇˢᶜʳⁱᵇᵉ😞'
 global.ownerNumber = ["923430436852@s.whatsapp.net"]
 global.ownerweb = "https://www.youtube.com/@blackpinkedit07"
 global.websitex = "https://www.youtube.com/@blackpinkedit07"
