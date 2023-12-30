@@ -31,11 +31,11 @@ global.location = "Pakistan, Lahore" //ur location
 //new
 global.botname = "᭄﹝ᯤ﹞𝐃𝗂𝗅𝗋𝗎𝖻𝗈⃞̸𝅄🔭𓆩ʙᴏᴛ𓆪🌺💃"
 global.ownernumber = '923430436852'
-global.ownername = 'ᶜˡⁱᶜᵏ ᵒⁿ ᵇˡᵃᶜᵏᵖⁱⁿᵏ ᶜʰᵃⁿⁿᵉˡ ˢᵘᵇˢᶜʳⁱᵇᵉ😞'
+global.ownername = '©᭄𝑴𝒊𝒂𝒏🌸ོ'
 global.ownerNumber = ["923430436852@s.whatsapp.net"]
-global.ownerweb = "https://www.youtube.com/@BLACKPINKEDITR"
-global.websitex = "https://www.youtube.com/@BLACKPINKEDITR"
-global.wagc = "https://www.youtube.com/@BLACKPINKEDITR"
+global.ownerweb = "https://www.youtube.com/@"
+global.websitex = "https://www.youtube.com/"
+global.wagc = "https://Ws.me/923430436852"
 global.themeemoji = '👻'
 global.wm = "Mian Bot Inc."
 global.botscript = 'https://www.youtube.com/@BLACKPINKEDITR' //script link
